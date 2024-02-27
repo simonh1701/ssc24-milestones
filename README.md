@@ -4,7 +4,7 @@ My Swift Student Challenge 2024 Submission!
 
 Milestones is an app designed to help people keep track of the milestones they accomplish throughout the year. It aims to **help people with imposter syndrome and self-doubt**.
 
-![Milestone Mockup Composition](https://github.com/simonh1701/ssc24-milestones/assets/113617179/b5b7846a-cf53-480b-a63e-5caed2ac98d2)
+![Milestone Mockup Composition](/Milestone%20Mockup%20Composition.jpeg)
 
 ## Installation
 
