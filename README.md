@@ -1,6 +1,6 @@
 # Milestones
 
-My Swift Student Challenge 2024 Submission!
+My Swift Student Challenge 2024 Submission! [Winner! 🎉]
 
 Milestones is an app designed to help people keep track of the milestones they accomplish throughout the year. It aims to **help people with imposter syndrome and self-doubt**.
 
@@ -29,3 +29,9 @@ The most important step in using Milestones is to log your progress for each mil
 ### Share your work and achievements.
 
 The last step is to be proud of yourself for the milestones you have finished. Some will be successful, and some will fail. You will learn and grow from both. This makes it all the more important to share where you have put your effort and what you took away from each of those experiences.
+
+## Swift Student Challenge Result
+
+### This submission was chosen as one of the 350 winners! 🎉
+
+![Swift Student Challenge Result](/Swift%20Student%20Challenge%20Result.jpeg)
